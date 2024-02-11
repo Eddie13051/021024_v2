@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: aqua;
+  text-align: center;
+}
+
+.big {
+  width: 400px;
+  height: 200px;
+}
+
+.num {
+  color: red;
+  font-size: 40px;
+}
+.result {
+  margin-bottom: 50px;
+}
+#result-area {
+  font-size: 60px;
+  margin: 30px;
+}
+
+#play-button {
+  border: none;
+  background-color: rgb(92, 170, 112);
+}
+#reset-button {
+  border: none;
+  background-color: rgb(163, 78, 56);
+}
